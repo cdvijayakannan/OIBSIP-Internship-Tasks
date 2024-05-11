@@ -1,5 +1,5 @@
 # OIBSIP-Internship-Tasks
-TASK 1: Exploratory Data Analysis (EDA) on Retail Sales Data
+# TASK 1: Exploratory Data Analysis (EDA) on Retail Sales Data
 Description:
 
 In this project, you will work with a dataset containing information about retail sales. The goal is
@@ -22,7 +22,7 @@ Gain hands-on experience in data cleaning and exploratory data analysis.
 Develop skills in interpreting descriptive statistics and time series analysis.
 Learn to use data visualization for effective communication of insights.
 
-#TASK 2:Wine Quality Prediction
+# TASK 2:Wine Quality Prediction
 
 Description:
 The focus is on predicting the quality of wine based on its chemical characteristics, offering a
@@ -40,7 +40,7 @@ operations.
 Data Visualization: Using Seaborn and Matplotlib for visualizing patterns and insights in the
 dataset.
 
-#TASK 3: Unveiling the Android App Market: Analyzing Google Play Store Data
+# TASK 3: Unveiling the Android App Market: Analyzing Google Play Store Data
 
 
 Description:
